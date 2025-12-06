@@ -6,3 +6,8 @@ node_modules/
 
 # debug logs
 npm-debug.log*
+
+
+# build output
+client/dist
+server/dist
